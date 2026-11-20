@@ -21,6 +21,7 @@ $(STAMP): requirements.txt
 test: venv
 	cd practice/ex01 && ../../$(VPY) -m pytest -q
 	cd practice/ex02 && ../../$(VPY) -m pytest -q
+	cd practice/ex03 && ../../$(VPY) -m pytest -q
 
 # Remove the virtual environment and test caches.
 clean:

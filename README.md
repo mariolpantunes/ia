@@ -36,3 +36,8 @@ To run one exercise by hand: `cd practice/ex01 && ../../venv/bin/python -m pytes
   propagation of the slides, the pinned test numbers require it).
   Practical guides: [`practice/ex02/guiao-pesquisa-en.pdf`](practice/ex02/guiao-pesquisa-en.pdf)
   (English), [`practice/ex02/guiao-pesquisa.pdf`](practice/ex02/guiao-pesquisa.pdf) (Portuguese).
+- `practice/ex03`: Guide 3, knowledge representation and inference
+  (semantic networks: local and inherited queries, cancellation of
+  inheritance, inductive inference, and typed associations).
+  Practical guides: [`practice/ex03/guiao-reprconhec-en.pdf`](practice/ex03/guiao-reprconhec-en.pdf)
+  (English), [`practice/ex03/guiao-reprconhec.pdf`](practice/ex03/guiao-reprconhec.pdf) (Portuguese).
